@@ -1,0 +1,11 @@
+##
+## A Brahmin Cow - Via Fallout
+##
+$the_cow = <<EOC;
+        \\
+         \\  (__)
+            (oo)(__)------.
+            (__)(oo)       )\\/\\
+                (__)----w |
+                  ||     ||
+EOC
